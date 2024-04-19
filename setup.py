@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     include_package_data=True,
-    name='codahelper',
+    name='PyCodaHelper',
     version='0.0.1',
     description='CoDA Helper Python Module',
     #url='...',
